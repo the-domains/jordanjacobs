@@ -1,0 +1,28 @@
+name: JordanJacobs
+favicon: null
+layout_spectrum: 0.3319190298207104
+typography_spectrum: 0.5140909082256258
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.023349366849288344
+  lightness: 0.06886641075834632
+  saturation: 0.6047905951272696
+  rhythmicContrast: 0.24028386175632477
+purpose: []
